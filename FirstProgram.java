@@ -1,5 +1,5 @@
 public class FirstProgram {
     public static void main(String[] args) {
-        System.out.println("Hello Tutorium 15");
+        System.out.println("Hello IntelliJ");
     }
 }
